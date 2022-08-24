@@ -1,0 +1,15 @@
+AUS-LGW       --T-T-S
+BCN-ORD      -M-W-FS
+BOS-LGW   DAILY
+DEN-LGW      --T-T-S
+FLL-LGW       N/A
+JFK-LGW   DAILY
+LAS-LGW      N/A
+LAX-LGW  DAILY
+LGW-MCO  DAILY
+LGW-MIA   DAILY
+LGW-OAK      N/A
+LGW-ORD      SM-W-F-
+LGW-SEA       SM-W-F-
+LGW-SFO      SMT-TF-
+LGW-TPA       ---W--S
